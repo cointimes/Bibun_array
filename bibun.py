@@ -1,5 +1,6 @@
-#changed from cube_analysis_class.py
-#this program may cost 30sec.
+#changed from cube_analysis_class.py(qe-analysis)
+###THIS PROGRAM may cost 30sec.
+#3 figures of 2-dimensional arrays
 import numpy as np
 import matplotlib.pyplot as plt
 #import time
